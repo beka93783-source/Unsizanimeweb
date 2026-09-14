@@ -1,0 +1,6 @@
+{
+  "settings":{"siteName":"ᑌᑎᔕIᘔ ᗩᑎIᗰE","telegramUrl":"https://t.me/your_channel","description":"Қазақша субтитр, дубляж және сапалы аниме бір жерде.","announcement":"Жаңа сериялар алдымен Telegram арнасында жарияланады."},
+  "anime":[{
+    "id":"weathering-with-you","title":"Ауа райының баласы","originalTitle":"天気の子","englishTitle":"Weathering with You","year":2019,"status":"movie","genres":["Романтика","Фэнтези","Драма"],"rating":"8.7","poster":"","backdrop":"","description":"Токиода жаңа өмір бастауға келген Ходака ерекше ауа райын өзгерте алатын Хинамен танысады.","tags":["Қазақша субтитр","1080p FHD"],"episodesData":[{"id":"weathering-1","number":1,"title":"Фильм","videoUrl":"","subtitleUrl":"","audio":"Original","quality":"1080p FHD","duration":"1:52:00"}],"episodes":1
+  }]
+}
